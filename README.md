@@ -12,7 +12,7 @@ git -v
 # New repository
 ## Create new repository on Github
 ## Clone repo to local
-> git clone <repository path>
+> git clone + repository path
 
 ```
 git clone https://github.com/macnhienxinhdep/git-demo.git
@@ -25,14 +25,18 @@ git clone https://github.com/macnhienxinhdep/git-demo.git
 git add .
 ```
 
-> git add <file name>
+> git add + file name
 
 ```
 git add index.html
 ```
 ## Commit file
-> git commit -m "<message>"
+> git commit -m "message"
 
 ```
 git commit -m "first commit"
+```
+## Push to Github
+```
+git push
 ```
