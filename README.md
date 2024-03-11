@@ -19,7 +19,7 @@ git clone https://github.com/macnhienxinhdep/git-demo.git
 ```
 ## Create files to the project
 ## Add file to remote
-> Add all file to remote
+> Add all files to remote
 
 ```
 git add .
@@ -29,4 +29,10 @@ git add .
 
 ```
 git add index.html
+```
+## Commit file
+> git commit -m "<message>"
+
+```
+git commit -m "first commit"
 ```
